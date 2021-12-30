@@ -1,5 +1,4 @@
-백엔드에 관심이 많은 예비개발자입니다 
-
+JAVA Spring Boot를 활용한 프로젝트와 공부로 백엔드 API 개발을 준비하고 있습니다.
 
 Mindwiki -> Lolin -> MARS(제일 최근)
 
