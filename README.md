@@ -7,3 +7,9 @@ Mindwiki -> Lolin -> MARS(제일 최근)
 자바로 백엔드 API 개발을 담당해왔습니다.
 
 현재는 미니 프로젝트를 진행하며, 기본기를 재정리하고 공부하고 있습니다.
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
