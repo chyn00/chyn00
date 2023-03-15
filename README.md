@@ -1,4 +1,4 @@
-For Backend
+개인 프로젝트 : 03/15 ~
 
 <h3><b>🛠 SKILLS</b></h3>
 </br>
