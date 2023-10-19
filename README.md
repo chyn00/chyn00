@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<username>&show_icons=true&locale=en&layout=compact" alt="<username>" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chyn00&show_icons=true&locale=en&layout=compact" alt="chyn00" /></p>
 
 f-lab-edu/your-delivery 2023.07 ~ 2023.10
   * 개발 역량 향상을 위한 1인 프로젝트(/w 멘토)
