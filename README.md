@@ -8,9 +8,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chyn00&show_icons=true&locale=en&layout=compact" alt="chyn00" /></p>
-
-f-lab-edu/your-delivery 2023.07 ~ 2023.10(latest)
-  * 개발 역량 향상을 위한 1인 프로젝트(/w 멘토)
-  * 객체지향, 클린코드를 적용하며 개발
-  * Rest api 지향
 <h3><b>Stats & Used Language</b></h3>
