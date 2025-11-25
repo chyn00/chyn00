@@ -1,10 +1,16 @@
+## 👋 안녕하세요, 백엔드 개발자 Ted입니다.
 
-<h3><b>🛠 SKILLS</b></h3>
-</br>
-<p>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-</p>
+대규모 트래픽 환경에서 안정적으로 동작하는 백엔드 구조 설계에 관심이 많습니다.  
+특히 **동시성 제어**, **정합성 확보**, **성능 기반 설계**, **객체지향 구조화**를 중심으로 공부하고 있습니다.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chyn00&show_icons=true&locale=en&layout=compact" alt="chyn00" /></p>
+현재는 실무에서 겪었던 문제들을 재현하여  
+정확한 설계·성능·아키텍처를 검증하는 프로젝트 **SaleDay**에 집중하고 있습니다.
+
+---
+
+## 🛒 SaleDay — 고트래픽 기반 커머스 서버
+
+> 재고 차감, 이벤트 처리, 유량 제어를 실전 수준으로 설계·실험하는 개인 프로젝트
+
+🔗 **Repository**  
+https://github.com/chyn00/saleday
